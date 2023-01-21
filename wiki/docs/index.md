@@ -2,7 +2,7 @@
 What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://dictionary.cambridge.org/dictionary/english/demarcating). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Minecraft® Eric's Mine Mod Madness™!
 
 # Object of the Game
-Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through working, trading, and raiding.
+Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through [working](#working), [trading](#trading), and raiding.
 
 # Rules
 There are a few simple, but very important rules to keep the game enjoyable for the creators and – uh, de-creators of the game alike.
@@ -18,7 +18,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 
 ## Main Rules
 1. No griefing or looting within the boundaries of someone else’s base, ever.
-2. No emptying the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
+2. No stealing the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
 3. Griefing, looting, and attacking are all permissible at any time outside of established bases. You may always attack other players in your base.
 ## Base Rules
 
@@ -52,7 +52,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 
     ![Restock Base](restock_base.png "Restock Base")
 
-## War Rulese
+## War Rules
 
 1. At least half of each team’s players must be online to start a war.
 2. To declare a war (in this case against team blue), type:
@@ -72,7 +72,7 @@ This competition will be played with several mods to facilitate a robust gamepla
 
 ## Core Mods
 - [LevelZ](/levelz.html)
-- [JobsAddon](https://www.curseforge.com/minecraft/mc-mods/jobsaddon)
+- [JobsAddon](/jobs-addon.html)
 
 ## Supporting Mods
 - [AdventureZ](https://globoxwiki.com/mods/adventurez/)
@@ -86,3 +86,7 @@ This competition will be played with several mods to facilitate a robust gamepla
 - [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/)
 - [Spiders 2.0](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0)
 - [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables)
+
+# Working
+
+# Trading
