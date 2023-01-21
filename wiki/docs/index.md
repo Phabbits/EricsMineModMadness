@@ -9,7 +9,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 ## Definitions
 | Term | Definition |
 | -- | -- |
-| Base | An above ground area surrounded by colored banners with a tower in the center that has banners on each side. A base includes all airspace and 6 blocks below the surface. |
+| Base | An above ground area surrounded by colored banners with a tower in the center that has banners on each side. A base includes all airspace and **6 blocks** below the surface. |
 | Raid | An attack by one team on a single base of another team. |
 | War | A mutual attack between all bases of two teams. |
 | Raid Chest | A chest at the bottom of the base’s tower that holds money that can be stolen during a raid or war. Amount depends on the base’s size. |
@@ -28,27 +28,31 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 2. There must be 2 banners facing outward at each corner and 1 banner every 10 blocks.
 3. The base borders must be rectangular.
 4. The base must have a tower at least 8 blocks high near the center of the base with a banner on each side of the tower, all visible outside of the base.
-5. The base must have a raid chest with a sign above it reading `Raid Chest` at the bottom of the base’s center tower that is theoretically reachable without destroying any blocks.
-6. The base must have a main entrance with the base number and the owners. For example:
-    <p style="text-align: center;">Base 6</p>
-    <p style="text-align: center;">Owners: Regulator,</p>
-    <p style="text-align: center;">Phabbits</p>
-7. Once built, the base must be registered under your team color by verbally informing the moderator of the base number and team color
+5. The base must have a raid chest, with a sign above it reading `Raid Chest`, at the bottom of the base’s center tower that is theoretically reachable without destroying any blocks.
+7. Once built, the base must be registered under your team color by verbally informing the moderator of your team color.
+8. The moderator will give you a base number and you can then fill out the required base sign:
+<p style="text-align: center;">Base 6</p>
+<p style="text-align: center;">Owners: Regulator,</p>
+<p style="text-align: center;">Phabbits</p>
 
 ## Raid Rules
 1. At least half of the base’s owners must be online to start a raid at that base.
-2. Anyone can declare a raid on another team’s base as long as there is no raid timer present for that base (including pre- and post-raid) and that team is not involved in a war.
+2. Anyone can declare a raid on another team’s base as long as there is no raid timer present for that base (including pre- and post-raid), and that team is not involved in a war.
 2. To declare a raid, first select which base (in this case base 5) by typing:
     - `/trigger raid-base set 5`
 3. Then activate the raid against the team owning the base (in this case team blue):
     - `/trigger raid-blue`
-4. Once the raid is declared, the defending team will be warned and the dark gray pre-raid timer is started. Only the defending team is allowed in the base during the pre-raid.
-5. The raid is marked by a timer of the defending team’s color. The attackers will try to reach and empty the raid chest. This is the only time the raid chest can be looted.
-6. After the raid, successful or not, a white post-raid timer will commence. The base cannot be raided again during this time and the defenders have this long to refill the raid chest.
-8. No player will respawn during a raid.
+4. Once the raid is declared, the defending team will be warned and the purple pre-raid timer is started. Only the defending team is allowed in the base during the pre-raid.
+    ![Return to Base](return_to_base.png "Return to Base")
+5. The raid is marked by a red timer. The attackers will try to reach and empty the raid chest. This is the only time the raid chest can be looted.
 
-## War Rules
-![Prepare for War](prepare_for_war.png "Prepare for War!")
+    ![Defend Base](defend_base.png "Defend Base")
+
+6. After the raid, successful or not, a white post-raid timer will commence. The base cannot be raided again during this time and the defenders have this long to refill the raid chest.
+
+    ![Restock Base](restock_base.png "Restock Base")
+
+## War Rulese
 
 1. At least half of each team’s players must be online to start a war.
 2. To declare a war (in this case against team blue), type:
