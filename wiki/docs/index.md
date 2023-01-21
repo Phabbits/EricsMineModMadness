@@ -1,5 +1,5 @@
 # Introduction
-What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://dictionary.cambridge.org/dictionary/english/demarcating). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Minecraft® Eric's Mine Mod Madness™!
+What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://www.wordnik.com/words/demarcate). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Minecraft® Eric's Mine Mod Madness™!
 
 # Object of the Game
 Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through [working](#working), [trading](#trading), and raiding.
@@ -13,13 +13,14 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 | Raid | An attack by one team on a single base of another team. |
 | War | A mutual attack between all bases of two teams. |
 | Raid Chest | A chest at the bottom of the base’s tower that holds money that can be stolen during a raid or war. Amount depends on the base’s size. |
-| Loot | To steal from a chest (other than the raid chest during a raid/war) |
+| Loot | To steal from a chest or shop (other than the raid chest during a raid/war) |
 | Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war) |
 
 ## Main Rules
 1. No griefing or looting within the boundaries of someone else’s base, ever.
-2. No stealing the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
+2. No stealing from the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
 3. Griefing, looting, and attacking are all permissible at any time outside of established bases. You may always attack other players in your base.
+4. No players of ANY team may enter a base if less than half its owners are online (i.e. no hiding in bases that cannot be raided)
 ## Base Rules
 
 <img style="float: right;" src="base.png">
@@ -64,8 +65,19 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 ## Capture Rules
 1. If a base has no raid or war timer running, its raid chest must be adequately filled.
 2. If it is not, any player at that base can inform the moderator to change the base to the neutral color, eliminating the base’s grief and loot protections.
-3. A neutral base can be captured by being first to fill its raid chest adequately and infroming the moderator.
+3. A neutral base can be captured by being first to fill its raid chest adequately and informing the moderator.
 
+# Getting started
+It's important to know about the JobsAddon mod before starting so you do not miss out on money and experience at the beginning of the game. This mod adds two important features: working and trading.
+## Working
+The [JobsAddon](/jobs-addon.html) mod rewards the player for performing simple "jobs" like cutting down trees or farming. It is important you select a job by going to your inventory and clicking on the jobs tab at the top of the inventory. Here you can select a task you would like to be rewarded for. Lumberjack, Builder, and Warrior are all good starting jobs.
+
+When you level up your job, you will get experience points towards skills (described in [LevelZ](/levelz.html)) and money. You can change your job every 20 minutes, but specializing in one job will give you the best rewards.
+
+## Trading
+The [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) mod allows players to place trading tables and set up villager-like trades. This means players can deposit some item (say a diamond) and request some amount of money (say a silver coin) for said item. The seller would fill the trading table with as many items as they'd like to sell and collect money from it after someone has purchased the items.
+
+Trading is important since the [LevelZ](/levelz.html) mod forces players to specialize in a skill to obtain high-level items.
 
 # Brief Mod Overview
 This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloadable automatically using the [Phame Games launcher](https://phame.dev).
@@ -86,7 +98,3 @@ This competition will be played with several mods to facilitate a robust gamepla
 - [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/)
 - [Spiders 2.0](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0)
 - [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables)
-
-# Working
-
-# Trading
