@@ -1,4 +1,6 @@
-# Item Unlocking
+# LevelZ
+
+## Item Unlocking
 | Weapons | Strength |
 | -- | -- |
 | Wood | 0 |

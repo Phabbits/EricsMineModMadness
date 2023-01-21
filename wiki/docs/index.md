@@ -67,7 +67,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloadable automatically using the [Phame Games launcher](https://phame.dev).
 
 ## Core Mods
-- [LevelZ](https://www.curseforge.com/minecraft/mc-mods/levelz)
+- [LevelZ](/levelz.html)
 - [JobsAddon](https://www.curseforge.com/minecraft/mc-mods/jobsaddon)
 
 ## Supporting Mods
