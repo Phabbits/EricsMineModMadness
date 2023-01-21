@@ -1,0 +1,22 @@
+# Warning! run $ sudo docker compose build
+# to ensure image is updated when requirements.txt is changed
+mkdocs
+# Material theme
+mkdocs-material
+# Let users save your entire site as a PDF through File > Print > Save as PDf
+mkdocs-print-site-plugin
+# Diplay authors (from git) at the bottom of each page
+mkdocs-git-authors-plugin
+# Adds a 'Last updated' date (from git) to bottom of each page
+mkdocs-git-revision-date-localized-plugin
+# Directly inserts CSV's using a {{ read_csv('table.csv') }}
+# Requires numpy, which is quite large and not always up to date
+#mkdocs-table-reader-plugin
+# Enumerate all headings across the website
+mkdocs-enumerate-headings-plugin
+# Simplifies configuring page titles and their order
+mkdocs-awesome-pages-plugin
+mkdocs-bibtex
+# Minifies HTML and/or JS files prior to being written to disk
+# for faster page loading
+mkdocs-minify-plugin

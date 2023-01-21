@@ -1,0 +1,14 @@
+site_name: Phame: Erics Mine Mod Madness
+
+# MkDocs binds to 127.0.0.1 by default, which
+# is not accessible outside of the container,
+# therefore bind it to all instead
+dev_addr: '0.0.0.0:8000'
+
+use_directory_urls: False
+
+
+
+# Bibtex currently links citations through footnotes
+markdown_extensions:
+  - footnotes
