@@ -2,7 +2,7 @@
 The cost of a base is `# of banners * 10 copper`
 
 # Designing a Base
-<img style="float: right;" src="/base.png">
+<img style="float: right;" src="/emmm/base.png">
 
 1. Anyone can build a base by placing their team’s banners at ground level around an area.
 2. There must be 2 banners facing outward at each corner and 1 banner every 10 blocks.
@@ -28,14 +28,14 @@ The cost of a base is `# of banners * 10 copper`
     - `/trigger war-blue`
 
 ## Working
-The [JobsAddon](/jobs-addon/) mod rewards the player for performing simple "jobs" like cutting down trees or farming. It is important you select a job by going to your inventory and clicking on the jobs tab at the top of the inventory. Here you can select a task you would like to be rewarded for. Lumberjack, Builder, and Warrior are all good starting jobs.
+The [JobsAddon](/emmm/jobs-addon/) mod rewards the player for performing simple "jobs" like cutting down trees or farming. It is important you select a job by going to your inventory and clicking on the jobs tab at the top of the inventory. Here you can select a task you would like to be rewarded for. Lumberjack, Builder, and Warrior are all good starting jobs.
 
-When you level up your job, you will get experience points towards skills (described in [LevelZ](/levelz/) and money. You can change your job every 20 minutes, but specializing in one job will give you the best rewards.
+When you level up your job, you will get experience points towards skills (described in [LevelZ](/emmm/levelz/) and money. You can change your job every 20 minutes, but specializing in one job will give you the best rewards.
 
 ## Trading
 The [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) mod allows players to place trading tables and set up villager-like trades. This means players can deposit some item (say a diamond) and request some amount of money (say a silver coin) for said item. The seller would fill the trading table with as many items as they'd like to sell and collect money from it after someone has purchased the items.
 
-Trading is important since the [LevelZ](/levelz/) mod forces players to specialize in a skill to obtain high-level items.
+Trading is important since the [LevelZ](/emmm/levelz/) mod forces players to specialize in a skill to obtain high-level items.
 
 # Setup a Shop
 Shops allow you to trade with other players even when you are not there. You simply craft a shop block and then stock it with items and it will trade like a villager for you.
@@ -69,8 +69,8 @@ Trading is made more reasonable with the added difficulty in one player being ab
 Combat has new moves you can do, new weapons, an added backslot to your character, and you know keep all your weapons and armor when you die.
 
 ## Core Mods
-- [LevelZ](/levelz/) - Adds skills to unlock abilities
-- [JobsAddon](/jobs-addon/) - Adds jobs to earn money
+- [LevelZ](/emmm/levelz/) - Adds skills to unlock abilities
+- [JobsAddon](/emmm/jobs-addon/) - Adds jobs to earn money
 
 ## Supporting Mods
 - [AdventureZ](https://globoxwiki.com/mods/adventurez/) - Adds mobs

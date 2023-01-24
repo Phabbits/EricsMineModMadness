@@ -4,7 +4,7 @@ What follows is a game of raiding, trading, upgrading, and of course, [demarcati
 # Object of the Game
 Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through working, trading, and raiding.
 
-**The mods included purposefully restrict what you can do to encourage specializing in one job and relying on others for what else you need.** [Learn More](/details/#mods)
+**The mods included purposefully restrict what you can do to encourage specializing in one job and relying on others for what else you need.** [Learn More](/emmm/details/#mods)
 
 # Rules
 There are a few simple, but very important rules to keep the game enjoyable for the creators and – uh, de-creators of the game alike.
@@ -15,7 +15,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 | Base | A specific area designated by the team's color banners and made official by a moderator, numbered 1 through 15. A base includes all airspace and **6 blocks below** the surface. It must feature a tower in the center with identifying banners. |
 | Raid | An attack by one team on a single base of another team. |
 | War | A mutual attack between all bases of two teams. |
-| Raid Chest | A chest at the bottom of the base’s tower which **must be filled** with the base's cost in money that can be stolen during a raid or war. [Amount depends on the base’s size](/details/#base-cost). |
+| Raid Chest | A chest at the bottom of the base’s tower which **must be filled** with the base's cost in money that can be stolen during a raid or war. [Amount depends on the base’s size](/emmm/details/#base-cost). |
 | Loot | To steal from a chest or shop (other than the raid chest during a raid/war). |
 | Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war). |
 
@@ -29,20 +29,20 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 
 Bases are designed to be **significant undertakings** when the extra protections against griefing and looting are desired.
 
-See [Designing a Base](/details/#designing-a-base) for how to create one.
+See [Designing a Base](/emmm/details/#designing-a-base) for how to create one.
 
 ## Raid Rules
 1. At least half of the base’s owners must be online to start a raid at that base.
 2. Anyone can declare a raid on another team’s base as long as there is no raid timer present for that base (including pre- and post-raid), and that team is not involved in a war.
 3. Raids have three stages:
-    <img style="float: right;" src="/return_to_base.png">
+    <img style="float: right;" src="/emmm/return_to_base.png">
     1. Pre-raid - Marked by a purple timer, the attackers must not enter the defenders base during this preparation time.
-    <img style="float: right;" src="/defend_base.png">
+    <img style="float: right;" src="/emmm/defend_base.png">
     2. Raid - Marked by a red timer, the attackers try to steal from the defenders raid chest.
-    <img style="float: right;" src="/restock_base.png">
+    <img style="float: right;" src="/emmm/restock_base.png">
     3. Post-raid - Marked by a gray timer, the attackers may no longer be in the base, and the defenders must refill the raid chest with the base's cost before this timer is up.
 
-See [Declaring a Raid](/details/#declaring-a-raid) for how to start one.
+See [Declaring a Raid](/emmm/details/#declaring-a-raid) for how to start one.
 
 ## War Rules
 
@@ -51,7 +51,7 @@ See [Declaring a Raid](/details/#declaring-a-raid) for how to start one.
 4. Only the two teams at war can freely steal from raid chests.
 5. The post-war timer prevents both wars and raids for a set time against that team.
 
-See [Declaring a War](/details/#declaring-a-war) for how to start one.
+See [Declaring a War](/emmm/details/#declaring-a-war) for how to start one.
 
 ## Capture Rules
 1. If a base has no raid or war timer running, its raid chest must be adequately filled.
@@ -59,14 +59,14 @@ See [Declaring a War](/details/#declaring-a-war) for how to start one.
 3. A neutral base can be captured by being first to fill its raid chest adequately and informing the moderator.
 
 # Getting started
-First, select a job by entering your inventory (pressing E) and going to the Jobs tab. Select a job whose [tasks you can easily perform](/jobs-addon/#job-tasks). Lumberjack is recommended to start with. This will be your source of income to trade with other players and experience to upgrade skills.
+First, select a job by entering your inventory (pressing E) and going to the Jobs tab. Select a job whose [tasks you can easily perform](/emmm/jobs-addon/#job-tasks). Lumberjack is recommended to start with. This will be your source of income to trade with other players and experience to upgrade skills.
 
-Certain things including using upgraded tools and harvesting different resources **are restricted at the beginning of the game**. You must invest in different [skills to unlock](/levelz/#unlocking-abilities) these usually normal abilities.
+Certain things including using upgraded tools and harvesting different resources **are restricted at the beginning of the game**. You must invest in different [skills to unlock](/emmm/levelz/#unlocking-abilities) these usually normal abilities.
 
-Once you are established, [setup a shop](/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams.
+Once you are established, [setup a shop](/emmm/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams.
 
 # Brief Mod Overview
-This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev). See the list of mods [here](/details/#mods).
+This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev). See the list of mods [here](/emmm/details/#mods).
 
 # FAQ
-Have a question? Check out this [Frequently Asked Question](/faq/) page.
+Have a question? Check out this [Frequently Asked Question](/emmm/faq/) page.
