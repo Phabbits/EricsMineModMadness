@@ -66,7 +66,7 @@ The selected mods enhance trading, combat, and the general sense of adventure.
 
 Trading is made more reasonable with the added difficulty in one player being able to specialize in everything. Shops a user can place down allow players to trade with them even when they are not there.
 
-Combat has new moves you can do, new weapons, an added backslot to your character, and you know keep all your weapons and armor when you die.
+Combat has new moves you can do, new weapons, an added backslot to your character, and you now keep all your weapons and armor when you die.
 
 ## Core Mods
 - [LevelZ](/emmm/levelz/) - Adds skills to unlock abilities
