@@ -5,7 +5,7 @@ site_name: Phame | Erics Mine Mod Madness
 # therefore bind it to all instead
 dev_addr: '0.0.0.0:8000'
 
-use_directory_urls: False
+use_directory_urls: true
 
 
 

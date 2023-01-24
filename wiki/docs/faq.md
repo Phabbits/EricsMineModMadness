@@ -13,6 +13,15 @@
 ## How do I join a team?
 `/trigger join-<color>`
 
+## How to hide the EMI overlay?
+EMI shows all the different block on the right over your inventory, and can get in the way. To hide it:
+
+1. Go to Game Menu | Mods | EMI
+2. Select the three scroll bars representing mod options on the right.
+3. Set Enabled to false.
+
+   ![EMI](emi.png "EMI")
+
 ## Moderators
 ### How do I update a base's value?
 `scoreboard players set <base> Raid_Chest <score>`

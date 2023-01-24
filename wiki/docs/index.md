@@ -1,66 +1,57 @@
 # Introduction
-What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://www.wordnik.com/words/demarcate). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Minecraft® Eric's Mine Mod Madness™!
+What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://www.wordnik.com/words/demarcate). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Eric's Mine Mod Madness™!
 
 # Object of the Game
-Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through [working](#working), [trading](#trading), and raiding.
+Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through working, trading, and raiding.
+
+**The mods included purposefully restrict what you can do to encourage specializing in one job and relying on others for what else you need.** [Learn More](/details/#mods)
 
 # Rules
 There are a few simple, but very important rules to keep the game enjoyable for the creators and – uh, de-creators of the game alike.
+
 ## Definitions
 | Term | Definition |
 | -- | -- |
-| Base | An above ground area surrounded by colored banners with a tower in the center that has banners on each side. A base includes all airspace and **6 blocks** below the surface. |
+| Base | A specific area designated by the team's color banners and made official by a moderator, numbered 1 through 15. A base includes all airspace and **6 blocks below** the surface. It must feature a tower in the center with identifying banners. |
 | Raid | An attack by one team on a single base of another team. |
 | War | A mutual attack between all bases of two teams. |
-| Raid Chest | A chest at the bottom of the base’s tower that holds money that can be stolen during a raid or war. Amount depends on the base’s size. |
-| Loot | To steal from a chest or shop (other than the raid chest during a raid/war) |
-| Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war) |
+| Raid Chest | A chest at the bottom of the base’s tower which **must be filled** with the base's cost in money that can be stolen during a raid or war. [Amount depends on the base’s size](/details/#base-cost). |
+| Loot | To steal from a chest or shop (other than the raid chest during a raid/war). |
+| Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war). |
 
 ## Main Rules
-1. No griefing or looting within the boundaries of someone else’s base, ever.
+1. No griefing or looting within the boundaries of someone else’s official base, ever.
 2. No stealing from the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
 3. Griefing, looting, and attacking are all permissible at any time outside of established bases. You may always attack other players in your base.
-4. No players of ANY team may enter a base if less than half its owners are online (i.e. no hiding in bases that cannot be raided)
+4. No players of ANY team may enter a base if less than half its owners are online (i.e. no hiding in bases that cannot be raided).
+
 ## Base Rules
 
-<img style="float: right;" src="base.png">
+Bases are designed to be **significant undertakings** when the extra protections against griefing and looting are desired.
 
-1. Anyone can build a base by placing their team’s banners at ground level around an area.
-2. There must be 2 banners facing outward at each corner and 1 banner every 10 blocks.
-3. The base borders must be rectangular.
-4. The base must have a tower at least 8 blocks high near the center of the base with a banner on each side of the tower, all visible outside of the base.
-5. The base must have a raid chest, with a sign above it reading `Raid Chest`, at the bottom of the base’s center tower that is theoretically reachable without destroying any blocks.
-7. Once built, the base must be registered under your team color by verbally informing the moderator of your team color.
-8. The moderator will give you a base number and you can then fill out the required base sign:
-<p style="text-align: center;">Base 6</p>
-<p style="text-align: center;">Owners: Regulator,</p>
-<p style="text-align: center;">Phabbits</p>
+See [Designing a Base](/details/#designing-a-base) for how to create one.
 
 ## Raid Rules
 1. At least half of the base’s owners must be online to start a raid at that base.
 2. Anyone can declare a raid on another team’s base as long as there is no raid timer present for that base (including pre- and post-raid), and that team is not involved in a war.
-2. To declare a raid, first select which base (in this case base 5) by typing:
-    - `/trigger raid-base set 5`
-3. Then activate the raid against the team owning the base (in this case team blue):
-    - `/trigger raid-blue`
-4. Once the raid is declared, the defending team will be warned and the purple pre-raid timer is started. Only the defending team is allowed in the base during the pre-raid.
-    ![Return to Base](return_to_base.png "Return to Base")
-5. The raid is marked by a red timer. The attackers will try to reach and empty the raid chest. This is the only time the raid chest can be looted.
+3. Raids have three stages:
+    <img style="float: right;" src="/return_to_base.png">
+    1. Pre-raid - Marked by a purple timer, the attackers must not enter the defenders base during this preparation time.
+    <img style="float: right;" src="/defend_base.png">
+    2. Raid - Marked by a red timer, the attackers try to steal from the defenders raid chest.
+    <img style="float: right;" src="/restock_base.png">
+    3. Post-raid - Marked by a gray timer, the attackers may no longer be in the base, and the defenders must refill the raid chest with the base's cost before this timer is up.
 
-    ![Defend Base](defend_base.png "Defend Base")
-
-6. After the raid, successful or not, a white post-raid timer will commence. The base cannot be raided again during this time and the defenders have this long to refill the raid chest.
-
-    ![Restock Base](restock_base.png "Restock Base")
+See [Declaring a Raid](/details/#declaring-a-raid) for how to start one.
 
 ## War Rules
 
 1. At least half of each team’s players must be online to start a war.
-2. To declare a war (in this case against team blue), type:
-    - `/trigger war-blue`
 3. Wars are the same as raids, except every base of both teams are being raided at once.
-4. Only the two teams at war can freely empty raid chests.
+4. Only the two teams at war can freely steal from raid chests.
 5. The post-war timer prevents both wars and raids for a set time against that team.
+
+See [Declaring a War](/details/#declaring-a-war) for how to start one.
 
 ## Capture Rules
 1. If a base has no raid or war timer running, its raid chest must be adequately filled.
@@ -68,33 +59,14 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 3. A neutral base can be captured by being first to fill its raid chest adequately and informing the moderator.
 
 # Getting started
-It's important to know about the JobsAddon mod before starting so you do not miss out on money and experience at the beginning of the game. This mod adds two important features: working and trading.
-## Working
-The [JobsAddon](/jobs-addon.html) mod rewards the player for performing simple "jobs" like cutting down trees or farming. It is important you select a job by going to your inventory and clicking on the jobs tab at the top of the inventory. Here you can select a task you would like to be rewarded for. Lumberjack, Builder, and Warrior are all good starting jobs.
+First, select a job by entering your inventory (pressing E) and going to the Jobs tab. Select a job whose [tasks you can easily perform](/jobs-addon/#job-tasks). Lumberjack is recommended to start with. This will be your source of income to trade with other players and experience to upgrade skills.
 
-When you level up your job, you will get experience points towards skills (described in [LevelZ](/levelz.html)) and money. You can change your job every 20 minutes, but specializing in one job will give you the best rewards.
+Certain things including using upgraded tools and harvesting different resources **are restricted at the beginning of the game**. You must invest in different [skills to unlock](/levelz/#unlocking-abilities) these usually normal abilities.
 
-## Trading
-The [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) mod allows players to place trading tables and set up villager-like trades. This means players can deposit some item (say a diamond) and request some amount of money (say a silver coin) for said item. The seller would fill the trading table with as many items as they'd like to sell and collect money from it after someone has purchased the items.
-
-Trading is important since the [LevelZ](/levelz.html) mod forces players to specialize in a skill to obtain high-level items.
+Once you are established, [setup a shop](/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams.
 
 # Brief Mod Overview
-This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloadable automatically using the [Phame Games launcher](https://phame.dev).
+This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev). See the list of mods [here](/details/#mods).
 
-## Core Mods
-- [LevelZ](/levelz.html)
-- [JobsAddon](/jobs-addon.html)
-
-## Supporting Mods
-- [AdventureZ](https://globoxwiki.com/mods/adventurez/)
-- [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
-- [Backslot](https://globoxwiki.com/mods/backslot/)
-- [Better Combat](https://github.com/ZsoltMolnarrr/BetterCombat)
-- [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion)
-- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)
-- [Keep Some Inventory](https://shaders-pre-product.modrinth.com/mod/keep-some-inventory)
-- [Medival Weapons](https://globoxwiki.com/)
-- [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/)
-- [Spiders 2.0](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0)
-- [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables)
+# FAQ
+Have a question? Check out this [Frequently Asked Question](/faq/) page.
