@@ -15,7 +15,10 @@ Experience for skills is also gained by leveling up jobs
 |Catching Fish|1-6|
 |Trading with villagers|3-6|
 
-## Tools
+## Unlocking abilities
+Below is a list of normal abilities and the skill you must upgrade to unlock them.
+
+### Tools
 |Tools|Skill: Mining|
 |:----|:----|
 |Wood|0|
@@ -25,7 +28,7 @@ Experience for skills is also gained by leveling up jobs
 |Diamond|16|
 |Netherite|20|
 
-## Weapons
+### Weapons
 |Weapons|Skill: Strength|
 |:----|:----|
 |Wood|0|
@@ -35,7 +38,7 @@ Experience for skills is also gained by leveling up jobs
 |Diamond|16|
 |Netherite|20|
 
-## Armor
+### Armor
 |Armor|Skill: Defense|
 |:----|:----|
 |Leather|1|
@@ -46,7 +49,7 @@ Experience for skills is also gained by leveling up jobs
 |Netherite|20|
 |Shield|5|
 
-## Bows
+### Bows
 |Bows|Skill: Archery|
 |:----|:----|
 |Bows|1|
@@ -54,7 +57,7 @@ Experience for skills is also gained by leveling up jobs
 |Trident|16|
 |Spears|16|
 
-## Ores
+### Ores
 |Ores|Skill: Mining|
 |:----|:----|
 |Gravel|1|
@@ -71,7 +74,7 @@ Experience for skills is also gained by leveling up jobs
 |Nether stuff|17|
 |Weird woods|17|
 
-## Farming
+### Farming
 |Farming Tools|Skill: Farming|
 |:----|:----|
 |Wood|0|
@@ -87,7 +90,7 @@ Experience for skills is also gained by leveling up jobs
 |Loom|10|
 |Smoker|10|
 
-## Smithing
+### Smithing
 |Smithing items|Skill: Smithing|
 |:----|:----|
 |Smithing Table|1|
@@ -95,23 +98,23 @@ Experience for skills is also gained by leveling up jobs
 |Anvil|10|
 |Blast Furnace|12|
 
-## Alchemy
+### Alchemy
 |Alchemy items|Skill: Alchemy|
 |:----|:----|
 |Enchanting Table|5|
 |Totem of Undying|16|
 
-## Trading
+### Trading
 |Trading Items|Skill: Trading|
 |:----|:----|
 |With Villagers|1|
 
-## Luck
+### Luck
 |Luck Items|Skill: Luck|
 |:----|:----|
 |Beacon|20|
 
-## Brewing
+### Brewing
 |Brewing Items|Skill: Brewing|
 |:----|:----|
 |Brewing Stand|1|

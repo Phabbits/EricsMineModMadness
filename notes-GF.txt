@@ -1,0 +1,37 @@
+Remove spectator mode
+Triggers are not set if join after reload
+
+create at spawn a sample base using white banners
+
+pick a job first
+start with beds
+start with a chest
+
+Add raid chest calculation
+
+start with little bases
+
+Clarify can't mind stone
+
+all recipes in sidebar not in documentation
+
+start with
+bed, base, trading table, copper, signs
+
+how do you use shop
+
+how to turn off EMI bar
+
+Modify display name of Raid_Chest to Chest
+
+write formula for money in raid chest
+
+clickable text?
+
+fix links on wiki
+
+why cant I harvest wood with stone axe, but can with wood axe?
+
+distinction between being a farmer, and the farmer trait
+
+You can click icons on skills to see items
