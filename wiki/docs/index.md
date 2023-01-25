@@ -2,7 +2,7 @@
 What follows is a game of raiding, trading, upgrading, and of course, [demarcating](https://www.wordnik.com/words/demarcate). Players will join their team members in seeking a balance between collegial commerce and Roman rule in a quest to build the largest and wealthiest empire they can. Peace is a fragile thing in Phame Games’© Eric's Mine Mod Madness™!
 
 # Object of the Game
-Be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through working, trading, and raiding.
+The goal is to be the team to control the most money (represented by gold, silver, and bronze coins) at the end of the play period (4 weeks). Money is obtained through working, trading, and raiding.
 
 **The mods included purposefully restrict what you can do to encourage specializing in one job and relying on others for what else you need.** [Learn More](/emmm/details/#mods)
 
@@ -12,10 +12,10 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 ## Definitions
 | Term | Definition |
 | -- | -- |
-| Base | A specific area designated by the team's color banners and made official by a moderator, numbered 1 through 15. A base includes all airspace and **6 blocks below** the surface. It must feature a tower in the center with identifying banners. |
+| Base | A specific area designated by the team's color banners and made official by a moderator, numbered 1 through 15. A base includes all enclosed airspace and **6 blocks below** the surface. It must feature a tower in the center with identifying banners. |
 | Raid | An attack by one team on a single base of another team. |
 | War | A mutual attack between all bases of two teams. |
-| Raid Chest | A chest at the bottom of the base’s tower which **must be filled** with the base's cost in money that can be stolen during a raid or war. [Amount depends on the base’s size](/emmm/details/#base-cost). |
+| Raid Chest | A chest at the bottom of the base’s tower which **must be filled** with the base's cost in money which can be stolen during a raid or war. [Amount depends on the base’s size](/emmm/details/#base-cost). |
 | Loot | To steal from a chest or shop (other than the raid chest during a raid/war). |
 | Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war). |
 
@@ -23,7 +23,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 1. No griefing or looting within the boundaries of someone else’s official base, ever.
 2. No stealing from the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
 3. Griefing, looting, and attacking are all permissible at any time outside of established bases. You may always attack other players in your base.
-4. No players of ANY team may enter a base if less than half its owners are online (i.e. no hiding in bases that cannot be raided).
+4. No players of ANY team may enter a base if less than half of its owners are online (i.e. no hiding in bases that cannot be raided).
 
 ## Base Rules
 
@@ -55,7 +55,7 @@ See [Declaring a War](/emmm/details/#declaring-a-war) for how to start one.
 
 ## Capture Rules
 1. If a base has no raid or war timer running, its raid chest must be adequately filled.
-2. If it is not, any player at that base can inform the moderator to change the base to the neutral color, eliminating the base’s grief and loot protections.
+2. If it is not, any player can inform the moderator to change the base to the neutral color, eliminating the base’s grief and loot protections.
 3. A neutral base can be captured by being first to fill its raid chest adequately and informing the moderator.
 
 # Getting started
@@ -66,7 +66,7 @@ Certain things including using upgraded tools and harvesting different resources
 Once you are established, [setup a shop](/emmm/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams.
 
 # Brief Mod Overview
-This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev). See the list of mods [here](/emmm/details/#mods).
+This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev), see [How to Play](/emmm/how-to-play). See the list of mods [here](/emmm/details/#mods).
 
 # FAQ
 Have a question? Check out this [Frequently Asked Question](/emmm/faq/) page.
