@@ -72,3 +72,6 @@ This competition will be played with several mods to facilitate a robust gamepla
 
 # FAQ
 Have a question? Check out this [Frequently Asked Question](/emmm/faq/) page.
+
+# Credit
+Special thanks to Eric, Isaiah, and Sammie.
