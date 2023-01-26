@@ -32,7 +32,7 @@ Bases are designed to be **significant undertakings** when the extra protections
 See [Designing a Base](/emmm/details/#designing-a-base) for how to create one.
 
 ## Raid Rules
-1. At least half of the base’s owners must be online to start a raid at that base.
+1. At least half of the base’s owners must be online to start a raid at that base (Base owners are on the sign at the base entrance, press `tab` to show who's online).
 2. Anyone can declare a raid on another team’s base as long as there is no raid timer present for that base (including pre- and post-raid), and that team is not involved in a war.
 3. Raids have three stages:
     <img style="float: right;" src="/emmm/return_to_base.png">

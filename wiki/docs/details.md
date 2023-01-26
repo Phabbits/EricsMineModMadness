@@ -1,12 +1,12 @@
 # Base Cost
-The cost of a base (copper per banner) doubles each week. For example, your starting base starts with 16 banners in week one, so 480 copper needs to be in the raid chest at all times.
+The cost of a base (copper per banner) doubles each week. For example, your starting base starts with 16 banners in week one, so 400 copper (4 silver) needs to be in the raid chest at all times.
 
 | Week | Copper per Banner |
 | -- | -- |
-| 1 | 30 |
-| 2 | 60 |
-| 3 | 120 |
-| 4 | 240 |
+| 1 | 25 |
+| 2 | 50 |
+| 3 | 100 |
+| 4 | 200 |
 
 # Designing a Base
 <img style="float: right;" src="/emmm/base.png">
@@ -71,7 +71,7 @@ To move currency from your inventory to your purse, you must equip it and then r
 
 The selected mods enhance trading, combat, and the general sense of adventure.
 
-Trading is made necessary because players cannot harvest everything they need to do skill limitations. Users can place down shops which allow other players to trade with them even when they are not there.
+Trading is made necessary because players cannot harvest everything they need due to skill limitations. Users can place down shops which allow other players to trade with them even when they are not there.
 
 Combat has new moves you can do, new weapons, an added backslot to your character, and you now keep all of your weapons and armor when you die.
 
@@ -86,8 +86,8 @@ Combat has new moves you can do, new weapons, an added backslot to your characte
 - [Better Combat](https://github.com/ZsoltMolnarrr/BetterCombat) - Greatly enhances combat
 - [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) - Many camping related additions including a backpack
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) - Recipes
-- [Keep Some Inventory](https://shaders-pre-product.modrinth.com/mod/keep-some-inventory) - Allows you to keep armor and weapons in a fight
+- [Keep Some Inventory](https://shaders-pre-product.modrinth.com/mod/keep-some-inventory) - Allows you to keep armor and weapons when dying
 - [Medival Weapons](https://globoxwiki.com/) - New weapons
-- [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) - Added currency
+- [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) - Added currency (1 gold = 100 silver, 1 silver = 100 bronze)
 - [Spiders 2.0](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0) - Made spiders more scary
 - [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Adds carts for transportation
