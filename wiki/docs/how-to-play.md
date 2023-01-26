@@ -2,7 +2,12 @@
 To play Eric's Mine Mod Madness, you need the Phame Launcher appropriate for your operating system:
 
 [Install for Windows](#install-for-windows)
+
 [Install for MacOS](#install-for-macos)
+
+[Run from Phame Launcher](#run-from-phame-launcher)
+
+[Install Minecraft 1.19.2](#install-minecraft-1192)
 
 # Install for Windows
 1. Click Download for Windows [here](https://phame.dev).
@@ -24,8 +29,12 @@ To play Eric's Mine Mod Madness, you need the Phame Launcher appropriate for you
 1. Click Download for MacOS [here](https://phame.dev).
 2. Accept downloads from phame.dev and open the download.
 3. Drag the Phame - Launcher into your Applications.
-4. Control click the Phame - Launcher and select _Open_.
+![](macos-01.png)
+4. Control-click the Phame - Launcher and select _Open_.
+![](macos-02.png)
 5. Select _Open_.
+![](macos-03.png)
+
 6. [Run from Phame Launcher](#run-from-phame-launcher)
 
 # Run from Phame Launcher
@@ -35,9 +44,7 @@ To play Eric's Mine Mod Madness, you need the Phame Launcher appropriate for you
 7. For Eric's Mine Mod Madness click _Run_.
 ![](windows-06.png)
 
-8. The resulting script will take you though the rest of the installation process.
-
-See how to install Minecraft 1.19.2 [here](#install-minecraft-1192).
+8. The resulting script will take you through the rest of the installation process.
 
 # Install Minecraft 1.19.2
 1. In the Minecraft Launcher ensure you have _Java Edition_ selected and then select _Installations_.
@@ -51,3 +58,5 @@ See how to install Minecraft 1.19.2 [here](#install-minecraft-1192).
 
 4. Select _Play_ by the new installation.
 ![](minecraft-04.png)
+
+After running the Phame Launcher, **you will use a new Fabric installation, and not the 1.19.2 installation** you created.

@@ -21,12 +21,3 @@ EMI shows all the different block on the right over your inventory, and can get 
 3. Set Enabled to false.
 
    ![EMI](emi.png "EMI")
-
-## Moderators
-### How do I update a base's value?
-`scoreboard players set <base> Raid_Chest <score>`
-
-### How do I update a base's team?
-`team join <color> <base>`
-
-Use `neutral` for no team color.

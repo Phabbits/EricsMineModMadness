@@ -16,10 +16,19 @@ Experience for skills is also gained by leveling up jobs
 |Trading with villagers|3-6|
 
 ## Unlocking abilities
-Below is a list of normal abilities and the skill you must upgrade to unlock them.
+Below is a list of normal abilities and the skill you must upgrade to unlock them. **The skills you upgrade are not limited by your job**. For example, you do not have to be a miner to upgrade the mining skill.
 
 ### Tools
-|Tools|Skill: Mining|
+|Pickaxe|Skill: Mining|
+|:----|:----|
+|Wood|0|
+|Stone|4|
+|Gold|6|
+|Iron|8|
+|Diamond|16|
+|Netherite|20|
+
+|Axe|Skill: Farming|
 |:----|:----|
 |Wood|0|
 |Stone|4|

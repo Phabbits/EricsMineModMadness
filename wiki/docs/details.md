@@ -1,5 +1,12 @@
 # Base Cost
-The cost of a base is `# of banners * 10 copper`
+The cost of a base (copper per banner) doubles each week. For example, your starting base starts with 16 banners in week one, so 480 copper needs to be in the raid chest at all times.
+
+| Week | Copper per Banner |
+| -- | -- |
+| 1 | 30 |
+| 2 | 60 |
+| 3 | 120 |
+| 4 | 240 |
 
 # Designing a Base
 <img style="float: right;" src="/emmm/base.png">
@@ -9,7 +16,7 @@ The cost of a base is `# of banners * 10 copper`
 3. The base borders must be rectangular.
 4. The base must have a tower at least 8 blocks high near the center of the base with a banner on each side of the tower, all visible outside of the base.
 5. The base must have a raid chest, with a sign above it reading `Raid Chest`, at the bottom of the base’s center tower that is theoretically reachable without destroying any blocks.
-7. Once built, the base must be registered under your team's color by verbally informing the moderator of your team.
+7. Once built, the base must be registered under your team's color by verbally informing the moderator.
 8. The moderator will give you a base number and you can then fill out the required base sign:
 <p style="text-align: center;">Base X</p>
 <p style="text-align: center;">Owners: Regulator,</p>
@@ -45,7 +52,7 @@ A shop can be crafted early on:
 
 ![Shop recipe](shop_recipe.png "Shop Recipe")
 
-To set a trade for other players click on the place shop and then on the emerald tab. Place the resource you want to sell in the box to the right, and enter the amount
+To set a trade for other players click on the place shop and then on the emerald tab. Place the resource you want to sell in the box to the right, and enter the amount.
 
 ![Shop setup](shop_setup_1.png "Shop Setup")
 
@@ -64,9 +71,9 @@ To move currency from your inventory to your purse, you must equip it and then r
 
 The selected mods enhance trading, combat, and the general sense of adventure.
 
-Trading is made more reasonable with the added difficulty in one player being able to specialize in everything. Shops a user can place down allow players to trade with them even when they are not there.
+Trading is made necessary because players cannot harvest everything they need to do skill limitations. Users can place down shops which allow other players to trade with them even when they are not there.
 
-Combat has new moves you can do, new weapons, an added backslot to your character, and you now keep all your weapons and armor when you die.
+Combat has new moves you can do, new weapons, an added backslot to your character, and you now keep all of your weapons and armor when you die.
 
 ## Core Mods
 - [LevelZ](/emmm/levelz/) - Adds skills to unlock abilities
@@ -83,4 +90,4 @@ Combat has new moves you can do, new weapons, an added backslot to your characte
 - [Medival Weapons](https://globoxwiki.com/) - New weapons
 - [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) - Added currency
 - [Spiders 2.0](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0) - Made spiders more scary
-- [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Added carts for transportation
+- [Transportables](https://www.curseforge.com/minecraft/mc-mods/grims-transportables) - Adds carts for transportation

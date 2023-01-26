@@ -1,9 +1,11 @@
 # Jobs Addon
 
 ## Job tasks
-A player can level up in their job, which results in being paid, by completing tasks related to that job. For example, a lumberjack levels up by harvesting wood blocks.
+A player earns experience and gets paid by completing tasks related to that job. For example, a lumberjack levels up by harvesting wood blocks.
 
-See the table below for each job. There is a twenty minute cooldown between switching jobs.
+When selecting a job, **only click once**. Select the job again to become unemployed, then you can select another job. There is a twenty minute cooldown between switching jobs.
+
+See the table below for each job.
 
 |Experience by job|Exp/job|What gives exp?|
 |:----|:----|:----|
