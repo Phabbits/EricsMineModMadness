@@ -59,11 +59,13 @@ See [Declaring a War](/emmm/details/#declaring-a-war) for how to start one.
 3. A neutral base can be captured by being first to fill its raid chest adequately and informing the moderator.
 
 # Getting started
-First, select a job by entering your inventory (pressing E) and going to the Jobs tab. Select a job whose [tasks you can easily perform](/emmm/jobs-addon/#job-tasks). Lumberjack is recommended to start with. This will be your source of income to trade with other players and experience to upgrade skills.
+First, select a job by entering your inventory (pressing E) and going to the Jobs tab. [Select a job](/emmm/jobs-addon/#job-tasks) whose tasks you can easily perform. Lumberjack is recommended to start with. This will be your source of income to trade with other players and give you experience to upgrade skills.
 
 Certain things including using upgraded tools and harvesting different resources **are restricted at the beginning of the game**. You must invest in different [skills to unlock](/emmm/levelz/#unlocking-abilities) these usually normal abilities.
 
-Once you are established, [setup a shop](/emmm/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams.
+Once you are established, [setup a shop](/emmm/details/#setup-a-shop) to begin trading and strategize diplomacy with other teams. Use `/tm ` to easily message teammates in game.
+
+![](map-marked.png)
 
 # Brief Mod Overview
 This competition will be played with several mods to facilitate a robust gameplay experience. All mods are downloaded automatically using the [Phame Launcher](https://phame.dev), see [How to Play](/emmm/how-to-play). See the list of mods [here](/emmm/details/#mods).

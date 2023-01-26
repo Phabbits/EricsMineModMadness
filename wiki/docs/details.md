@@ -1,5 +1,12 @@
 # Base Cost
-The cost of a base is `# of banners * 10 copper`.
+The cost of a base (copper per banner) doubles each week. For example, your starting base starts with 16 banners in week one, so 480 copper needs to be in the raid chest at all times.
+
+| Week | Copper per Banner |
+| -- | -- |
+| 1 | 30 |
+| 2 | 60 |
+| 3 | 120 |
+| 4 | 240 |
 
 # Designing a Base
 <img style="float: right;" src="/emmm/base.png">

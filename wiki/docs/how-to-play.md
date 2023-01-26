@@ -58,3 +58,5 @@ To play Eric's Mine Mod Madness, you need the Phame Launcher appropriate for you
 
 4. Select _Play_ by the new installation.
 ![](minecraft-04.png)
+
+After running the Phame Launcher, **you will use a new Fabric installation, and not the 1.19.2 installation** you created.

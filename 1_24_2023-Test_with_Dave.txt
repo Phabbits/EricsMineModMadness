@@ -1,0 +1,26 @@
+Discuss rules and decide teams before starting server
+Dont click job multiple times
+
+yellow -180 72 -58
+red    193 71 300
+
+Do I have to be a miner to upgrade minig?
+
+Need a map
+
+How to team chat
+Extra tracks so you can repair creepers
+More minecarts
+
+Check settings for mods
+
+Up the base cost
+mobGriefing false
+
+30 copper per banner double it each week
+One rail is not powered
+
+Yellow -193 74 -68
+Green  -82  89  -242
+Blue   -46  79  135
+Red    201  70  97
