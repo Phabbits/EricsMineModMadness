@@ -42,6 +42,8 @@ When you level up your job, you will get experience points towards skills (descr
 ## Trading
 The [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) mod allows players to place trading tables and set up villager-like trades. This means players can deposit some item (say a diamond) and request some amount of money (say a silver coin) for said item. The seller would fill the trading table with as many items as they'd like to sell and collect money from it after someone has purchased the items.
 
+Players can set up trade tables in the neutral base marked by white banners in the middle of the map. This area is protected from griefing and looting.
+
 Trading is important since the [LevelZ](/emmm/levelz/) mod forces players to specialize in a skill to obtain high-level items.
 
 # Setup a Shop

@@ -20,7 +20,7 @@ There are a few simple, but very important rules to keep the game enjoyable for 
 | Grief | To destroy buildings or structures (besides small, infiltration damage during a raid/war). |
 
 ## Main Rules
-1. No griefing or looting within the boundaries of someone else’s official base, ever.
+1. No griefing or looting within the boundaries of someone else’s official base, ever (or the neutral base in the middle).
 2. No stealing from the raid chest or attacking players in their base, unless that base is being raided or that team is at war with your team.
 3. Griefing, looting, and attacking are all permissible at any time outside of established bases. You may always attack other players in your base.
 4. No players of ANY team may enter a base if less than half of its owners are online (i.e. no hiding in bases that cannot be raided).
