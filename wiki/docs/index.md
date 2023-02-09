@@ -53,6 +53,14 @@ See [Declaring a Raid](/emmm/details/#declaring-a-raid) for how to start one.
 
 See [Declaring a War](/emmm/details/#declaring-a-war) for how to start one.
 
+## Truce Rules
+
+1. All teams must request a truce for it to start.
+2. No raids or wars may occur during a truce.
+3. After a truce, all players must double their base cost in their raid chest.
+
+See [Declaring a Truce](/emmm/details/#declaring-a-truce) for how to start one.
+
 ## Capture Rules
 1. If a base has no raid or war timer running, its raid chest must be adequately filled.
 2. If it is not, any player can inform the moderator to change the base to the neutral color, eliminating the base’s grief and loot protections.

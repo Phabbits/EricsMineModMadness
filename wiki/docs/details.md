@@ -3,10 +3,10 @@ The cost of a base (copper per banner) doubles each week. For example, your star
 
 | Week | Copper per Banner |
 | -- | -- |
-| 1 | 25 |
-| 2 | 50 |
-| 3 | 100 |
-| 4 | 200 |
+| 1 | 50 |
+| 2 | 100 |
+| 3 | 200 |
+| 4 | 400 |
 
 # Designing a Base
 <img style="float: right;" src="/emmm/base.png">
@@ -34,12 +34,19 @@ The cost of a base (copper per banner) doubles each week. For example, your star
 2. To declare a war (in this case against team blue), type:
     - `/trigger war-blue`
 
-## Working
+# Declaring a Truce
+
+2. To request a truce type:
+    - `/trigger truce`
+
+One player from every team must request a truce in order for it to start. Any war or raid called during this process will reset all previous truce requests.
+
+# Working
 The [JobsAddon](/emmm/jobs-addon/) mod rewards the player for performing simple "jobs" like cutting down trees or farming. It is important you select a job by going to your inventory and clicking on the jobs tab at the top of the inventory. Here you can select a task you would like to be rewarded for. Lumberjack, Builder, and Warrior are all good starting jobs.
 
 When you level up your job, you will get experience points towards skills (described in [LevelZ](/emmm/levelz/) and money. You can change your job every 20 minutes, but specializing in one job will give you the best rewards.
 
-## Trading
+# Trading
 The [Numismatic Overhaul](https://docs.wispforest.io/numismatic-overhaul/home/) mod allows players to place trading tables and set up villager-like trades. This means players can deposit some item (say a diamond) and request some amount of money (say a silver coin) for said item. The seller would fill the trading table with as many items as they'd like to sell and collect money from it after someone has purchased the items.
 
 Players can set up trade tables in the neutral base marked by white banners in the middle of the map. This area is protected from griefing and looting.
